@@ -1,7 +1,7 @@
 {
     "name": "No YouTube Shorts",
     "description": "Removes the button for YouTube shorts.",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "manifest_version": 3,
     "icons": {
         "16": "images/icon-16.png",
@@ -13,7 +13,8 @@
         {
             "js": ["script.js"],
             "matches": [
-                "https://www.youtube.com/"
+                "https://www.youtube.com/",
+                "https://www.youtube.com/*"
             ]
         }
     ]
