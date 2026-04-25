@@ -8,6 +8,7 @@
 // @icon         https://github.com/jacksonhendershott/noyoutubeshorts/blob/9c450f649e6b396d95befa1f03bfd48e121424a7/images/icon-128.png?raw=true
 // @grant        none
 // @run-at       document-idle
+// @license      MIT
 // ==/UserScript==
 
 (function() {
